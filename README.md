@@ -6,7 +6,7 @@
 
 ### 🛠 Tech Skillset
 - **Languages:** JavaScript, Python, Go, C++, HTML/CSS, SQL
-- **Frameworks & Tools:** React, Node.js, GraphQL, Redis, Docker, Kubernetes, Amazon Web Services (Lambda, EC2, SQS)
+- **Frameworks & Tools:** React, Node.js, GraphQL, Redis, Docker, Kubernetes, Amazon Web Services (Lambda, EC2, SQS, ECR)
 - **Databases & Cloud Storage:** SQL, DynamoDB, AWS S3
 - **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
 
@@ -17,9 +17,9 @@
   - 🏆 *AI Innovation Award Winner at SunHacks 2024*
   - Built with React, Node.js, AWS Polly, Transcribe, OpenAI, and Socket.io for real-time AI-driven mock interviews.
 
-- **IaaS-based Elastic Face Recognition System**
+- **Cloud Based Elastic Face Recognition System**
   - Deployed a scalable face recognition system on AWS with EC2, S3, SQS, achieving dynamic scaling and high-throughput processing for real-time image uploads.
-
+  - implemented a serverless face recognition pipeline using AWS Lambda functions, S3 buckets, and Docker, to process video uploads, extract frames, and identify faces using machine learning models with pre-trained embeddings.
 - **Product Management Dashboard**
   - Created a full-stack dashboard with secure JWT auth, Redis caching, Docker, Kubernetes, and CI/CD pipelines, achieving a 25% boost in reliability and scalability.
 
