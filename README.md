@@ -19,7 +19,7 @@
 
 - **Cloud Based Elastic Face Recognition System**
   - Deployed a scalable face recognition system on AWS with EC2, S3, SQS, achieving dynamic scaling and high-throughput processing for real-time image uploads.
-  - implemented a serverless face recognition pipeline using AWS Lambda functions, S3 buckets, and Docker, to process video uploads, extract frames, and identify faces using machine learning models with pre-trained embeddings.
+  - Implemented a serverless face recognition pipeline using AWS Lambda functions, S3 buckets, and Docker, to process video uploads, extract frames, and identify faces using machine learning models with pre-trained embeddings.
 - **Product Management Dashboard**
   - Created a full-stack dashboard with secure JWT auth, Redis caching, Docker, Kubernetes, and CI/CD pipelines, achieving a 25% boost in reliability and scalability.
 
