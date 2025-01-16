@@ -1,6 +1,6 @@
 # Hey there, I'm Venkat Nikhil Mangipudi! 👋
 
-### Tech Enthusiast | Full Stack Developer | Cloud Aficionado ☁️
+### Tech Enthusiast | Full Stack Developer 
 
 ---
 
