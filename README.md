@@ -5,7 +5,7 @@
 ---
 
 ### 🛠 Tech Skillset
-- **Languages:** JavaScript, Python, Go, C++, HTML/CSS, SQL
+- **Languages:** JavaScript/TypeScript, Python, Go, Java, HTML/CSS, SQL
 - **Frameworks & Tools:** React, Node.js, GraphQL, Redis, Docker, Kubernetes, Amazon Web Services (Lambda, EC2, SQS, ECR)
 - **Databases & Cloud Storage:** SQL, DynamoDB, AWS S3
 - **Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib
