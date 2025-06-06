@@ -29,7 +29,9 @@
   - Achieved over 85% accuracy using MediaPipe and Neurosymbolic AI techniques to precisely recognize facial emotions.
 
 ---
+
 🌐 Check out my [portfolio website](https://venkatnikhilm.github.io/venkatnikhil-portfolio) to see more of my work!
+
 ---
 ### 🏅 Achievements
 - 🥈 **2nd Place – LA Hacks 2025 (Snap Inc. Challenge)**
