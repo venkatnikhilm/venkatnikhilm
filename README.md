@@ -2,7 +2,6 @@
 
 ### Tech Enthusiast | Full Stack Developer 
 
-Check out my portfolio 🌐[venkatnikhilm.github.io/venkatnikhil-portfolio](https://venkatnikhilm.github.io/venkatnikhil-portfolio)
 ---
 
 ### 🛠 Tech Skillset
@@ -29,6 +28,8 @@ Check out my portfolio 🌐[venkatnikhilm.github.io/venkatnikhil-portfolio](http
 - **NeuroEmotion: Rule-Based Facial Emotion Recognition**
   - Achieved over 85% accuracy using MediaPipe and Neurosymbolic AI techniques to precisely recognize facial emotions.
 
+---
+🌐 Check out my [portfolio website](https://venkatnikhilm.github.io/venkatnikhil-portfolio) to see more of my work!
 ---
 ### 🏅 Achievements
 - 🥈 **2nd Place – LA Hacks 2025 (Snap Inc. Challenge)**
